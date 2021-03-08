@@ -8,7 +8,11 @@ function Header() {
   const location = useLocation();
 
   return (
-    <ul className="nav nav-tabs">
+        <header>
+        <nav className="navbar">
+        <h1>Becca Blanton</h1>
+         <div>
+              <ul className="nav nav-tabs">
       <li className="nav-item">
         <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
           Home
@@ -27,7 +31,7 @@ function Header() {
           to="/portfolio"
           className={location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}
         >
-          Blog
+          Portfolio
         </Link>
       </li>
       <li className="nav-item">
@@ -39,6 +43,9 @@ function Header() {
         </Link>
       </li>
     </ul>
+</div>
+</nav>
+</header>
   );
 }
 
