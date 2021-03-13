@@ -1,71 +1,59 @@
-# Getting Started with Create React App
+# BeccaBlanton.github.io
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Personal Webpage/About me with Links to Contact me form as well as personal Portfolio of projects I have completed
 
-## Available Scripts
+### Website built with React and React-bootstrap
 
-In the project directory, you can run:
+## Main/About me page
 
-### `npm start`
+* Designed basic About me front page including a container containing a profile picture and snippet about me. Container created through use of bootstrap.
+* Created dropdown Nav bar used throughout all pages.
+* Included a sticky footer across all pages.
+* adjusted img to adjust depending on size of device.
+* Used google fonts to add custom fonts to page.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Contact Page
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+* Made a contact page with use of bootstrap forms to email (form not currently synced to email)
+* font awesome icons used next to forms as well as labels
+* responsive page to fit all media sizes
+* cohesive style with main page and portfolio including nav bar and sticky footer
+* used external server(formspree) to process contact form to send emails.
 
-### `npm test`
+## Portfolio Page
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Containers in place for future projects completed.
+* cards containing screenshot, title, text and links to projects 
 
-### `npm run build`
+## Sticky Footer
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* added footer to the bottom of all pages with icon links to social media sites as well as an email link.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Resources Used
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Bootstrap for grid layout, nav bar, footer, forms, and portfolio: [bootstrap](https://getbootstrap.com/)
+1. Font Awesome site for icosn: [Font Awesome](https://fontawesome.com/)
+1. Google Fonts for custom Fonts: [google fonts](fonts.google.com)
+1. Unsplash for background photo: [Unsplash](unsplash.com)
+1. Graphic Mama for Website Color Schemes: [Graphic Mama](https://graphicmama.com/blog/website-color-schemes/)
+1. Formspree as external server to link contact form: [Formspree](https://formspree.io/)
 
-### `npm run eject`
+## Website Examples
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![main page on small screens](exampleimages/index.html_sm.png)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![main page on medium screens](exampleimages/index.html_med.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![main page on large screens](exampleimages/index.html_lg.png)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+![contact page on small screens](exampleimages/contact.html_sm.png)
 
-## Learn More
+![contact page on medium screens](exampleimages/contact.html_med.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![contact page on large screens](exampleimages/contact.html_lg.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![portfolio page on small screens](exampleimages/portfolio.html_sm.png)
 
-### Code Splitting
+![portfolio page on medium screens](exampleimages/portfolio.html_med.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# portfolio
+![portfolio page on large screens](exampleimages/portfolio.html_lg.png)
