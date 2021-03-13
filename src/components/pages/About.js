@@ -7,7 +7,7 @@ function About() {
             <div className="row">
                 <div className="col">
                     <h1>About Me:</h1>
-                    <img src={profileimg}alt="Becca Blanton" class="mr-md-3 img-fluid img-thumbnail float-md-left"></img>
+                    <img src={profileimg}alt="Becca Blanton" className="mr-md-3 img-fluid img-thumbnail float-md-left"></img>
                     <p>
                     I am a web developer based out of Rocklin, CA. I am a creative at heart and live for creating new things that spark joy and help others. I graduated from California State University, Sacramento with a Bachelor’s in Psychology in 2011 and have worked for the past 9 years with children with autism in Applied Behavioral Analysis Therapy. 
                     <br></br>

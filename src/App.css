@@ -6,6 +6,7 @@
 
 body, html {
   background-color: #BD9DEA!important;
+  background: URL('leaf.jpg') no-repeat fixed center center;
   margin-bottom: 40px;
 }
 
