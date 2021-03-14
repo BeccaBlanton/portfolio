@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f962f526.chunk.css",
-    "main.js": "/portfolio/static/js/main.4737ebbb.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.4737ebbb.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.c6ccd6dd.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c6ccd6dd.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.d0751e95.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.d0751e95.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/portfolio/static/css/2.4c97ca4f.chunk.css",
@@ -14,6 +14,7 @@
     "static/css/2.4c97ca4f.chunk.css.map": "/portfolio/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.f962f526.chunk.css.map": "/portfolio/static/css/main.f962f526.chunk.css.map",
     "static/js/2.5f82181b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5f82181b.chunk.js.LICENSE.txt",
+    "static/media/RebeccaBlantonResume.b272acbc.png": "/portfolio/static/media/RebeccaBlantonResume.b272acbc.png",
     "static/media/App.css": "/portfolio/static/media/leaf.1c02af6a.jpg",
     "static/media/profileimg.20747614.jpg": "/portfolio/static/media/profileimg.20747614.jpg"
   },
@@ -22,6 +23,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.5f82181b.chunk.js",
     "static/css/main.f962f526.chunk.css",
-    "static/js/main.4737ebbb.chunk.js"
+    "static/js/main.c6ccd6dd.chunk.js"
   ]
 }
