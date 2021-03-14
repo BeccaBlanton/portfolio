@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "image": "/portfolio/images/gmy2centsScreenshot.png",
+        "image": "/portfolio/images/my2centsScreenshot.png",
         "title": "My2Cents",
         "text": "Progressive web app budget tracker. Can enter expenses and deposits offline and will enter once back online.Stats page to see over time.",
         "link": "https://my2centsmoneytracker.herokuapp.com/",
