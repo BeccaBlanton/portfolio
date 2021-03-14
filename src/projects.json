@@ -9,6 +9,14 @@
     },
     {
         "id": 2,
+        "image": "/portfolio/images/gmy2centsScreenshot.png",
+        "title": "My2Cents",
+        "text": "Progressive web app budget tracker. Can enter expenses and deposits offline and will enter once back online.Stats page to see over time.",
+        "link": "https://my2centsmoneytracker.herokuapp.com/",
+        "github": "https://github.com/BeccaBlanton/my2Cents"
+    },
+    {
+        "id": 3,
         "image": "/portfolio/images/giftionarythumbnail.png",
         "title": "Giftionary Page",
         "text": "a fun web app that allows you to search any word and get a gif, definition and random quote about your word using the giphy API written using Javascript, jQuery, css and HTML.",
@@ -16,7 +24,7 @@
         "github": "https://github.com/BeccaBlanton/giftionary"
     },
     {
-        "id": 3,
+        "id": 4,
         "image": "/portfolio/images/CatchEmScreenshot.png",
         "title": "Catch Em All Page",
         "text": "site to store wishlist of pokemon and ones caught using mySQL, Javascript, Express and Handlesbars.",
@@ -24,7 +32,7 @@
         "github": "https://github.com/BeccaBlanton/catch_em_all"
     },
     {
-        "id": 4,
+        "id": 5,
         "image": "/portfolio/images/employeetrackerthumbnail.png",
         "title": "Employee Tracker CLI",
         "text": "A Node app interface to help manage employee data stored in a MySQL database.",
@@ -32,7 +40,7 @@
         "github": "https://github.com/BeccaBlanton/employeetracker"
     },
     {
-        "id": 5,
+        "id": 6,
         "image": "/portfolio/images/howstheweatherwebsite.png",
         "title": "How's the Weather Page",
         "text": "Website that shows the current and 5 day forecast for any city you search for. Includes Temp, Humidity, wind speed and UV index.",
